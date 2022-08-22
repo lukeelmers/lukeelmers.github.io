@@ -1,0 +1,5 @@
+# robots.txt for lukeelmers.com
+
+User-agent: *
+Allow: /$ # only crawl home page
+Disallow: / # disallow everything else
